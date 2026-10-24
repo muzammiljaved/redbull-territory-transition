@@ -99,5 +99,4 @@ The SQL never reads it; it's only used to measure how accurate the cleanup is.
 
 ## About
 
-Built by **Muzammil (Muzi) Javed** · BBA in Management Information Systems, University of Houston (Bauer College of Business)
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)
+Built by **Muzammil (Muzi) Javed** · BBA in Management Information Systems, University of Houston (Bauer College of Busines)(http://linkedin.com/in/muzammil-javed/)
