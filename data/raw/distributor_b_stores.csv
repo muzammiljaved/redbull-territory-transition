@@ -1,0 +1,139 @@
+outlet_id,outlet_name,street_address,city,state,zip_code
+RBDC-HOU-9110,Lone Star Food Store 809,4482 Northwest Freeway,Katy,TX,77494
+RBDC-HOU-3289,FreshWay Grocery 727,8522 Louetta Road,Houston,TX,77064
+RBDC-HOU-3674,QuickStop 164,3327 Barker Cypress Road,Katy,TX,77449
+RBDC-HOU-1059,Corner Market 172,2482 Telge Road,Houston,TX,77064
+RBDC-HOU-1682,Corner Market - 126,"1162 Cinco Ranch Boulevard, Suite 450",Houston,TX,77070
+RBDC-HOU-7381,Corner Market 728,18340 Memorial Drive,Houston,TX,77095
+RBDC-HOU-8032,Gulf Mart Express 774,21269 Peek Road,Cypress,TX,77429
+RBDC-HOU-2394,QuickStop 829,24304 Memorial Drive,Humble,TX,77346
+RBDC-HOU-9707,FuelMart 195,15791 Bellaire Boulevard,Spring,TX,77379
+RBDC-HOU-2506,QuickStop - 660,3297 Mason Creek Avenue,Tomball,TX,77375
+RBDC-HOU-4780,Lone Star Food Store 304,3439 Mason Creek Avenue,Cypress,TX,77429
+RBDC-HOU-4248,Lone Star Food Store 624,16706 Clay Road,Spring,TX,77379
+RBDC-HOU-4566,Gulf Mart - 337,2987 Tomball Parkway,Houston,TX,77084
+RBDC-HOU-7338,FreshWay Grocery - 437,17600 Clay Road,Tomball,TX,77375
+RBDC-HOU-9335,FuelMart 960,"18172 Peek Road, Suite 120",Katy,TX,77449
+RBDC-HOU-8385,Corner Market 472,"13915 Tomball Parkway, Suite 100",Tomball,TX,77375
+RBDC-HOU-2966,SpeedyGas - 462,"11856 Fry Road, Suite 450",Cypress,TX,77433
+RBDC-HOU-2251,QuickStop 199,9297 Telge Road,Houston,TX,77064
+RBDC-HOU-5084,FreshWay Grocery 614,"4332 Grant Road, Suite 300",Houston,TX,77084
+RBDC-HOU-7554,ValuDrug 544,13233 Cinco Ranch Boulevard,Katy,TX,77494
+RBDC-HOU-3270,Corner Market - 203,2621 Clay Road,Houston,TX,77064
+RBDC-HOU-5190,QuickStop 481,6595 Mason Road,Houston,TX,77070
+RBDC-HOU-2961,FreshWay Grocery - 897,8820 Cypress Creek Parkway,Spring,TX,77379
+RBDC-HOU-8002,Lone Star Food Store - 720,15843 Kuykendahl Road,Houston,TX,77070
+RBDC-HOU-4311,Gulf Mart 280,3984 South Main Street,Cypress,TX,77433
+RBDC-HOU-2016,SpeedyGas 857,25439 Katy Freeway,Spring,TX,77379
+RBDC-HOU-2517,ValuDrug 282,17495 Copperfield Drive,Katy,TX,77449
+RBDC-HOU-9025,Lone Star Food Store 617,"1714 Telge Road, Suite 200",Spring,TX,77379
+RBDC-HOU-2784,Lone Star Food Store 727,"4571 Kuykendahl Road, Suite 110",Tomball,TX,77375
+RBDC-HOU-3096,QuickStop 292,"5117 Mason Creek Avenue, Suite 100",Houston,TX,77084
+RBDC-HOU-4140,SpeedyGas - 162,"4674 Cinco Ranch Boulevard, Suite 120",Houston,TX,77064
+RBDC-HOU-4970,QuickStop - 754,10880 South Main Street,Houston,TX,77084
+RBDC-HOU-9164,Corner Market 649,24090 Katy Freeway,Houston,TX,77084
+RBDC-HOU-1558,FuelMart 170,22867 Kuykendahl Road,Cypress,TX,77429
+RBDC-HOU-2104,ValuDrug 589,"7490 North Eldridge Parkway, Suite 120",Humble,TX,77346
+RBDC-HOU-9122,Corner Market 254,"8256 Northwest Freeway, Suite 120",Katy,TX,77494
+RBDC-HOU-1890,Lone Star Food Store 553,2848 Copperfield Drive,Spring,TX,77379
+RBDC-HOU-2300,QuickStop 695,15733 North Eldridge Parkway,Katy,TX,77449
+RBDC-HOU-7203,Gulf Mart 184,25455 Gessner Drive,Humble,TX,77346
+RBDC-HOU-4398,Gulf Mart 254,"3563 Barker Cypress Road, Suite 120",Houston,TX,77095
+RBDC-HOU-9872,FreshWay Grocery - 654,2614 Clay Road,Spring,TX,77379
+RBDC-HOU-7153,Lone Star Food Store 164,"14461 Cypress Creek Parkway, Suite 300",Houston,TX,77084
+RBDC-HOU-6488,QuickStop 205,"25497 Louetta Road, Suite 210",Cypress,TX,77429
+RBDC-HOU-2070,ValuDrug - 868,1123 Telge Road,Cypress,TX,77429
+RBDC-HOU-9135,Lone Star Food Store 878,9226 Mason Creek Avenue,Spring,TX,77379
+RBDC-HOU-2294,Gulf Mart 336,11741 Kuykendahl Road,Houston,TX,77041
+RBDC-HOU-6337,Gulf Mart 489,3121 Kay Freeway,Katy,TX,77494
+RBDC-HOU-3837,FuelMart 567,14797 Fy Road,Katy,TX,77494
+RBDC-HOU-8199,FreshWay Grocery - 645,"19585 Grant Road, Suite 120",Cypress,TX,77429
+RBDC-HOU-7125,QuickStop - 285,16557 Barker Cypress Road,Houston,TX,77095
+RBDC-HOU-8358,QuickStop 798,"20110 Firfield Boulevard, Suite 100",Katy,TX,77494
+RBDC-HOU-1626,ValuDrug 828,13081 Westheimer Road,Katy,TX,77494
+RBDC-HOU-6115,Corner Market 100,11721 Bellaire Boulevard,Houston,TX,77084
+RBDC-HOU-2493,SpeedyGas 954,13953 Mason Creek Avenue,Houston,TX,77095
+RBDC-HOU-4336,SpeedyGas 529,12920 Cinco Ranch Boulevard,Houston,TX,77084
+RBDC-HOU-3663,Gulf Mart 799,3963 Fry Road,Spring,TX,77379
+RBDC-HOU-2099,ValuDrug 901,"6625 Gessner Drive, Suite 120",Houston,TX,77064
+RBDC-HOU-7355,Corner Market 204,2425 Mason Road,Cypress,TX,77429
+RBDC-HOU-4573,Corner Market Express 153,21147 North Eldridge Parkway,Houston,TX,77041
+RBDC-HOU-1624,FuelMart 916,24752 Kuykendahl Road,Katy,TX,77449
+RBDC-HOU-7882,SpeedyGas - 657,19024 Northwest Freeway,Houston,TX,77041
+RBDC-HOU-9019,SpeedyGas Express 365,15660 Jones Road,Humble,TX,77346
+RBDC-HOU-8054,Lone Star Food Store 128,16506 Mason Creek Avenue,Katy,TX,77449
+RBDC-HOU-2310,QuickStop 935,"5268 Cypress Creek Parkway, Suite 300",Houston,TX,77084
+RBDC-HOU-3156,Gulf Mart 467,21123 Clay Road,Houston,TX,77084
+RBDC-HOU-5132,Gulf Mart 525,24628 Mason Creek Avenue,Humble,TX,77346
+RBDC-HOU-5306,Lone Star Food Store - 675,17456 Grant Road,Katy,TX,77449
+RBDC-HOU-6371,ValuDrug - 497,6966 Louetta Road,Houston,TX,77084
+RBDC-HOU-9543,FreshWay Grocery 890,"18390 Cinco Ranch Boulevard, Suite 450",Houston,TX,77095
+RBDC-HOU-5337,FuelMart 693,21636 South Main Street,Cypress,TX,77429
+RBDC-HOU-5855,Gulf Mart - 823,3666 Huffmeister Road,Cypress,TX,77433
+RBDC-HOU-8081,ValuDrug 222,"25481 Barker Cypress Road, Suite 110",Houston,TX,77064
+RBDC-HOU-1042,QuickStop 673,8446 Tomball Parkway,Katy,TX,77449
+RBDC-HOU-7000,ValuDrug 776,14540 Kuykendahl Road,Houston,TX,77070
+RBDC-HOU-3370,Gulf Mart 385,8981 Mason Creek Avenue,Houston,TX,77084
+RBDC-HOU-8270,SpeedyGas 433,2839 Barker Cypress Road,Cypress,TX,77429
+RBDC-HOU-9491,QuickStop 415,22522 South Main Street,Houston,TX,77041
+RBDC-HOU-8830,SpeedyGas - 700,17665 Spring Cypress Road,Houston,TX,77041
+RBDC-HOU-2724,SpeedyGas - 882,3637 Northwest Freeway,Houston,TX,77064
+RBDC-HOU-9572,FreshWay Grocery - 464,9715 Westheimer Road,Houston,TX,77064
+RBDC-HOU-3608,Corner Market 715,"1498 Gessner Drive, Suite 110",Houston,TX,77095
+RBDC-HOU-9787,SpeedyGas 346,8837 Fairfield Boulevard,Cypress,TX,77433
+RBDC-HOU-2274,QuickStop - 684,"24744 Katy Freeway, Suite 120",Houston,TX,77084
+RBDC-HOU-1470,QuickStop 220,4495 Fry Road,Houston,TX,77084
+RBDC-HOU-6954,QuickStop 653,"25142 Clay Road, Suite 450",Houston,TX,77064
+RBDC-HOU-2433,SpeedyGas 613,"7741 Kuykendahl Road, Suite 100",Houston,TX,77095
+RBDC-HOU-6228,FreshWay Grocery - 271,"5346 Fry Road, Suite 450",Tomball,TX,77375
+RBDC-HOU-9253,ValuDrug - 954,2586 Telge Road,Cypress,TX,77429
+RBDC-HOU-1788,QuickStop - 247,15301 Barker Cypress Road,Spring,TX,77379
+RBDC-HOU-1884,FuelMart - 708,"10408 Bellaire Boulevard, Suite 100",Houston,TX,77041
+RBDC-HOU-3603,Gulf Mart 663,12376 Memorial Drive,Tomball,TX,77375
+RBDC-HOU-9032,Corner Market 448,4601 Spring Cypress Road,Tomball,TX,77375
+RBDC-HOU-7916,FuelMart - 458,"12652 Huffmeister Road, Suite 200",Humble,TX,77346
+RBDC-HOU-4826,Corner Market - 212,15026 Grant Road,Cypress,TX,77429
+RBDC-HOU-6297,QuickStop 529,11704 Memorial Drive,Cypress,TX,77433
+RBDC-HOU-9318,FreshWay Grocery 475,5130 Kuykendahl Road,Houston,TX,77041
+RBDC-HOU-3636,Gulf Mart - 984,9112 Mson Road,Houston,TX,77064
+RBDC-HOU-8125,FuelMart 811,5946 North Eldidge Parkway,Katy,TX,77494
+RBDC-HOU-9199,Corner Market - 266,"2111 Northwest Freeway, Suite 450",Spring,TX,77379
+RBDC-HOU-8045,QuickStop 396,20782 Grant Road,Katy,TX,77449
+RBDC-HOU-4745,SpeedyGas 399,24665 Copperfield Drive,Katy,TX,77494
+RBDC-HOU-4971,Lone Star Food Store 619,9513 Huffmeister Road,Spring,TX,77379
+RBDC-HOU-3999,Gulf Mart 540,16818 Katy Freeway,Cypress,TX,77429
+RBDC-HOU-9902,QuickStop 236,17051 Bellaire Boulevard,Spring,TX,77379
+RBDC-HOU-7060,FuelMart 448,"18728 Northwest Freeway, Suite 200",Houston,TX,77041
+RBDC-HOU-6824,Lone Star Food Store - 200,7022 Copperfield Drive,Katy,TX,77494
+RBDC-HOU-6769,SpeedyGas - 317,"1436 Westheimer Road, Suite 200",Spring,TX,77379
+RBDC-HOU-8571,FreshWay Grocery Express 630,18267 North Eldridge Parkway,Houston,TX,77064
+RBDC-HOU-6785,Corner Market 551,19417 Cypress Creek Parkway,Tomball,TX,77375
+RBDC-HOU-6812,SpeedyGas - 357,25900 Telge Road,Tomball,TX,77375
+RBDC-HOU-6865,SpeedyGas 316,14962 Grant Road,Humble,TX,77346
+RBDC-HOU-7309,Lone Star Food Store 890,"21883 Fairfield Boulevard, Suite 120",Spring,TX,77379
+RBDC-HOU-4436,Gulf Mart 938,12309 Bellaire Boulevard,Houston,TX,77070
+RBDC-HOU-6676,FreshWay Grocery - 367,"19955 Fry Road, Suite 110",Houston,TX,77041
+RBDC-HOU-2916,FreshWay Grocery - 965,"23701 Tomball Parkway, Suite 100",Katy,TX,77494
+RBDC-HOU-9050,Corner Market Express 313,17177 Tomball Parkway,Katy,TX,77449
+RBDC-HOU-5863,QuickStop 979,11508 Bellaire Boulevard,Katy,TX,77449
+RBDC-HOU-1336,SpeedyGas 945,6915 Clay Road,Humble,TX,77346
+RBDC-HOU-4495,ValuDrug 186,16865 Gessner Drive,Houston,TX,77095
+RBDC-HOU-4452,ValuDrug 758,12998 Copperfield Drive,Houston,TX,77095
+RBDC-HOU-5451,QuickStop 670,12638 Telge Road,Cypress,TX,77429
+RBDC-HOU-3090,Corner Market 168,4864 Tomball Parkway,Humble,TX,77346
+RBDC-HOU-7528,QuickStop - 147,19163 Peek Road,Spring,TX,77379
+RBDC-HOU-7161,Corner Market 295,"22561 Fairfield Boulevard, Suite 210",Tomball,TX,77375
+RBDC-HOU-2660,FuelMart 937,22854 Westheimer Road,Katy,TX,77494
+RBDC-HOU-5948,QuickStop 326,5544 Bellaire Boulevard,Cypress,TX,77433
+RBDC-HOU-9554,SpeedyGas 299,19949 Cypress Creek Parkway,Houston,TX,77041
+RBDC-HOU-3544,SpeedyGas 992,14259 Greenhouse Road,Houston,TX,77041
+RBDC-HOU-1078,FuelMart 908,"16472 Cypress Creek Parkway, Suite 110",Houston,TX,77095
+RBDC-HOU-4969,FuelMart 686,5226 Fy Road,Katy,TX,77494
+RBDC-HOU-5162,Gulf Mart - 240,"3762 Cinco Ranch Boulevard, Suite 210",Houston,TX,77064
+RBDC-HOU-2305,QuickStop 150,1482 Westheimer Road,Houston,TX,77084
+RBDC-HOU-8417,FuelMart 671,6374 Cypress Creek Parkway,Cypress,TX,77433
+RBDC-HOU-6440,ValuDrug Express 918,2982 Grant Road,Cypress,TX,77429
+RBDC-HOU-7171,Gulf Mart 662,11112 Bellire Boulevard,Houston,TX,77041
+RBDC-HOU-9758,Gulf Mart Express 511,18947 Mason Creek Avenue,Cypress,TX,77429
+RBDC-HOU-5173,Corner Market - 163,2888 Fairfield Boulevard,Cypress,TX,77429
+RBDC-HOU-9536,FuelMart 882,12636 Mason Creek Avenue,Houston,TX,77070

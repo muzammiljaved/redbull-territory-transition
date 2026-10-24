@@ -1,0 +1,13 @@
+rb_sku,product_name,size_oz,pack_type,units_per_case
+RB-1001,Red Bull Energy Drink 8.4oz,8.4,Single,24
+RB-1002,Red Bull Energy Drink 8.4oz 4-Pack,8.4,4-Pack,24
+RB-1003,Red Bull Energy Drink 12oz,12,Single,24
+RB-1004,Red Bull Energy Drink 16oz,16,Single,24
+RB-1005,Red Bull Energy Drink 20oz,20,Single,24
+RB-2001,Red Bull Sugarfree 8.4oz,8.4,Single,24
+RB-2002,Red Bull Sugarfree 12oz,12,Single,24
+RB-3001,Red Bull Zero 12oz,12,Single,24
+RB-4001,Red Bull Red Edition 12oz,12,Single,24
+RB-4002,Red Bull Blue Edition 12oz,12,Single,24
+RB-4003,Red Bull Yellow Edition 12oz,12,Single,24
+RB-4025,Red Bull Summer Edition 2025 12oz,12,Single,24

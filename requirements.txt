@@ -1,0 +1,1 @@
+matplotlib>=3.5   # only needed for make_chart.py

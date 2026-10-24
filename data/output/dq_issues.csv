@@ -1,0 +1,51 @@
+check_name,severity,week_ending,entity,detail,cases_impacted,action_taken
+OVERLAP_WEEK,HIGH,2025-07-05,Territory,Both distributors sent sales for this week. Loading both would double count.,2822.0,Kept Distributor B (territory owner); dropped Distributor A rows for this week
+MISSING_WEEK,HIGH,2025-07-26,Territory,No file received from the owning distributor (NEW).,3794.5,Estimated from surrounding weeks and labeled ESTIMATED; request the file from distributor
+UNMAPPED_PRODUCT,MEDIUM,,Item 42520,Distributor A item code has no Red Bull SKU in the crosswalk. Sold 9 weeks (2025-05-10 to 2025-07-05).,2015.0,Kept in totals as UNMAPPED; ask distributor to confirm the SKU and update crosswalk
+STORE_NEEDS_REVIEW,MEDIUM,,OLD C77237 - GULF MART #774,"No match found, but store was active around the cutover. Could be the same store with different name/address. Active 2025-01-04 to 2025-07-05.",344.0,Totals are correct; store-level history is split until someone confirms the match
+STORE_NEEDS_REVIEW,MEDIUM,,OLD C33981 - CORNER MARKET #153,"No match found, but store was active around the cutover. Could be the same store with different name/address. Active 2025-01-04 to 2025-07-05.",432.0,Totals are correct; store-level history is split until someone confirms the match
+STORE_NEEDS_REVIEW,MEDIUM,,OLD C10459 - SPEEDYGAS #365,"No match found, but store was active around the cutover. Could be the same store with different name/address. Active 2025-01-04 to 2025-07-05.",516.0,Totals are correct; store-level history is split until someone confirms the match
+STORE_NEEDS_REVIEW,MEDIUM,,OLD C61375 - FRESHWAY GROCERY #630,"No match found, but store was active around the cutover. Could be the same store with different name/address. Active 2025-01-04 to 2025-07-05.",1805.0,Totals are correct; store-level history is split until someone confirms the match
+STORE_NEEDS_REVIEW,MEDIUM,,OLD C28929 - CORNER MARKET #313,"No match found, but store was active around the cutover. Could be the same store with different name/address. Active 2025-01-04 to 2025-07-05.",326.0,Totals are correct; store-level history is split until someone confirms the match
+STORE_NEEDS_REVIEW,MEDIUM,,OLD C88630 - VALUDRUG #918,"No match found, but store was active around the cutover. Could be the same store with different name/address. Active 2025-01-04 to 2025-07-05.",339.0,Totals are correct; store-level history is split until someone confirms the match
+STORE_NEEDS_REVIEW,MEDIUM,,OLD C55462 - GULF MART #511,"No match found, but store was active around the cutover. Could be the same store with different name/address. Active 2025-01-04 to 2025-07-05.",806.0,Totals are correct; store-level history is split until someone confirms the match
+STORE_NEEDS_REVIEW,MEDIUM,,NEW RBDC-HOU-8032 - Gulf Mart Express 774,"No match found, but store was active around the cutover. Could be the same store with different name/address. Active 2025-07-05 to 2025-12-27.",302.0,Totals are correct; store-level history is split until someone confirms the match
+STORE_NEEDS_REVIEW,MEDIUM,,NEW RBDC-HOU-4573 - Corner Market Express 153,"No match found, but store was active around the cutover. Could be the same store with different name/address. Active 2025-07-05 to 2025-12-27.",386.0,Totals are correct; store-level history is split until someone confirms the match
+STORE_NEEDS_REVIEW,MEDIUM,,NEW RBDC-HOU-9019 - SpeedyGas Express 365,"No match found, but store was active around the cutover. Could be the same store with different name/address. Active 2025-07-05 to 2025-12-27.",500.0,Totals are correct; store-level history is split until someone confirms the match
+STORE_NEEDS_REVIEW,MEDIUM,,NEW RBDC-HOU-8571 - FreshWay Grocery Express 630,"No match found, but store was active around the cutover. Could be the same store with different name/address. Active 2025-07-05 to 2025-12-27.",1713.0,Totals are correct; store-level history is split until someone confirms the match
+STORE_NEEDS_REVIEW,MEDIUM,,NEW RBDC-HOU-9050 - Corner Market Express 313,"No match found, but store was active around the cutover. Could be the same store with different name/address. Active 2025-07-05 to 2025-12-27.",285.0,Totals are correct; store-level history is split until someone confirms the match
+STORE_NEEDS_REVIEW,MEDIUM,,NEW RBDC-HOU-6440 - ValuDrug Express 918,"No match found, but store was active around the cutover. Could be the same store with different name/address. Active 2025-07-05 to 2025-12-27.",264.0,Totals are correct; store-level history is split until someone confirms the match
+STORE_NEEDS_REVIEW,MEDIUM,,NEW RBDC-HOU-9758 - Gulf Mart Express 511,"No match found, but store was active around the cutover. Could be the same store with different name/address. Active 2025-07-05 to 2025-12-27.",676.0,Totals are correct; store-level history is split until someone confirms the match
+PROBABLE_MATCH,LOW,,C66458 -> RBDC-HOU-3674,"Matched on store name + ZIP. Addresses differ: ""3317 BARKER CYPRESS RD"" vs ""3327 Barker Cypress Road"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C16127 -> RBDC-HOU-4248,"Matched on store name + ZIP. Addresses differ: ""16696 CLAY RD"" vs ""16706 Clay Road"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C99337 -> RBDC-HOU-8385,"Matched on store name + ZIP. Addresses differ: ""13913 TOMBALL PKWY STE 100"" vs ""13915 Tomball Parkway, Suite 100"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C99400 -> RBDC-HOU-2784,"Matched on store name + ZIP. Addresses differ: ""4573 KUYKENDAHL RD STE 110"" vs ""4571 Kuykendahl Road, Suite 110"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C45692 -> RBDC-HOU-6488,"Matched on store name + ZIP. Addresses differ: ""25487 LOUETTA RD STE 210"" vs ""25497 Louetta Road, Suite 210"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C81383 -> RBDC-HOU-6337,"Matched on store name + ZIP. Addresses differ: ""3121 KATY FWY"" vs ""3121 Kay Freeway"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C68584 -> RBDC-HOU-3837,"Matched on store name + ZIP. Addresses differ: ""14797 FRY RD"" vs ""14797 Fy Road"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C36108 -> RBDC-HOU-8199,"Matched on store name + ZIP. Addresses differ: ""19575 GRANT RD STE 120"" vs ""19585 Grant Road, Suite 120"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C33299 -> RBDC-HOU-8358,"Matched on store name + ZIP. Addresses differ: ""20110 FAIRFIELD BLVD STE 100"" vs ""20110 Firfield Boulevard, Suite 100"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C91397 -> RBDC-HOU-6115,"Matched on store name + ZIP. Addresses differ: ""11723 BELLAIRE BLVD"" vs ""11721 Bellaire Boulevard"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C70411 -> RBDC-HOU-3663,"Matched on store name + ZIP. Addresses differ: ""3965 FRY RD"" vs ""3963 Fry Road"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C55695 -> RBDC-HOU-3636,"Matched on store name + ZIP. Addresses differ: ""9112 MASON RD"" vs ""9112 Mson Road"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C48981 -> RBDC-HOU-8125,"Matched on store name + ZIP. Addresses differ: ""5946 N ELDRIDGE PKWY"" vs ""5946 North Eldidge Parkway"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C32793 -> RBDC-HOU-2660,"Matched on store name + ZIP. Addresses differ: ""22856 WESTHEIMER RD"" vs ""22854 Westheimer Road"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C84578 -> RBDC-HOU-4969,"Matched on store name + ZIP. Addresses differ: ""5226 FRY RD"" vs ""5226 Fy Road"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C42258 -> RBDC-HOU-7171,"Matched on store name + ZIP. Addresses differ: ""11112 BELLAIRE BLVD"" vs ""11112 Bellire Boulevard"".",,Accepted; spot check
+PROBABLE_MATCH,LOW,,C37077 -> RBDC-HOU-5173,"Matched on store name + ZIP. Addresses differ: ""2886 FAIRFIELD BLVD"" vs ""2888 Fairfield Boulevard"".",,Accepted; spot check
+LIKELY_CLOSED_STORE,INFO,,OLD C60020 - VALUDRUG #908,Active 2025-01-04 to 2025-03-15.,72.0,No action; confirm with sales team
+LIKELY_CLOSED_STORE,INFO,,OLD C81968 - FRESHWAY GROCERY #751,Active 2025-01-04 to 2025-02-22.,459.0,No action; confirm with sales team
+LIKELY_CLOSED_STORE,INFO,,OLD C40327 - CORNER MARKET #680,Active 2025-01-04 to 2025-04-12.,182.0,No action; confirm with sales team
+LIKELY_CLOSED_STORE,INFO,,OLD C50941 - FRESHWAY GROCERY #328,Active 2025-01-04 to 2025-04-05.,801.0,No action; confirm with sales team
+LIKELY_CLOSED_STORE,INFO,,OLD C34334 - LONE STAR FOOD STORE #563,Active 2025-01-04 to 2025-03-01.,73.0,No action; confirm with sales team
+LIKELY_CLOSED_STORE,INFO,,OLD C21849 - SPEEDYGAS #994,Active 2025-01-04 to 2025-05-17.,577.0,No action; confirm with sales team
+LIKELY_CLOSED_STORE,INFO,,OLD C67504 - GULF MART #384,Active 2025-01-04 to 2025-05-17.,548.0,No action; confirm with sales team
+LIKELY_CLOSED_STORE,INFO,,OLD C15543 - FRESHWAY GROCERY #812,Active 2025-01-04 to 2025-05-24.,644.0,No action; confirm with sales team
+LIKELY_NEW_STORE,INFO,,NEW RBDC-HOU-7381 - Corner Market 728,Active 2025-09-27 to 2025-12-27.,118.0,No action; confirm with sales team
+LIKELY_NEW_STORE,INFO,,NEW RBDC-HOU-7203 - Gulf Mart 184,Active 2025-09-27 to 2025-12-27.,223.0,No action; confirm with sales team
+LIKELY_NEW_STORE,INFO,,NEW RBDC-HOU-9872 - FreshWay Grocery - 654,Active 2025-09-13 to 2025-12-27.,523.0,No action; confirm with sales team
+LIKELY_NEW_STORE,INFO,,NEW RBDC-HOU-9787 - SpeedyGas 346,Active 2025-10-25 to 2025-12-27.,329.0,No action; confirm with sales team
+LIKELY_NEW_STORE,INFO,,NEW RBDC-HOU-6954 - QuickStop 653,Active 2025-08-16 to 2025-12-27.,646.0,No action; confirm with sales team
+LIKELY_NEW_STORE,INFO,,NEW RBDC-HOU-9032 - Corner Market 448,Active 2025-11-01 to 2025-12-27.,116.0,No action; confirm with sales team
+DUPLICATE_ROWS,MEDIUM,,Distributor B file,15 rows were received more than once.,47.0,Removed duplicates
+MESSY_SKU_CODES,LOW,,Distributor B file,1502 rows had SKU codes with lowercase letters or extra spaces.,4040.0,Cleaned automatically
